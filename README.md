@@ -1,7 +1,7 @@
 # IPSPOOFING DOS ATTACK #
 
 <p align="center">
-![image](https://github.com/marc459/IpSpoofingDos/blob/master/src/blackhat.gif)
+<img src="https://github.com/marc459/IpSpoofingDos/blob/master/src/blackhat.gif"/>
 </p>
 
 ## DESCRIPTION
