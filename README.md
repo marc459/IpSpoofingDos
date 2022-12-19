@@ -15,4 +15,4 @@ sudo python3 ntpclient "VICTIM_IP"
 
 ## @@@DISCLAIMER@@@
 Use this tool only with educative and testing purpouses.
-Not respnsible aboout.
+Not respnsible about malicius abusing usage.
